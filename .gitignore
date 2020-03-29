@@ -1,6 +1,21 @@
+# React NPM node modules
 node_modules
+
+# Django
 __pycache__/
 *.py[cod]
 *.log
 *.pot
-db.sqlite3
+*.pyc
+media
+
+# Distribution
+lib/
+.python-version
+venv/
+
+# IDE
+.vscode
+
+# SQLite Databases
+*.sqlite3
